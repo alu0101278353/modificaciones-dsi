@@ -1,0 +1,8 @@
+{
+  "entryPoints": [
+      "./src/modificacion/rational.ts",
+      "./src/modificacion/interfaceArithmeticable.ts",
+      "./src/modificacion/ArithmeticableCollection.ts"
+  ],
+  "out": "../docs"
+}
