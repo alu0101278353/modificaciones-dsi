@@ -4,7 +4,7 @@ import {add} from '../src/basicFunctions';
 
 describe('add function tests', () => {
   it('add(1, 8) returns value 9', () => {
-    expect(add(1, 8)).to.be.equal(9);
+    expect(add(1, 7)).to.be.equal(8);
   });
 
   it('add(-1, 8) returns value 7', () => {
